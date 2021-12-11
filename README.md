@@ -1,8 +1,8 @@
 ## Hola soy Akiomae
 <div aling="center">
     <a href="https://github.com/Akiomae/">
-        <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Akiomae&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akiomae&layout=compact&langs_count=7&theme=dracula"/>
+        <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Akiomae&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akiomae&layout=compact&langs_count=7&theme=dracula"/>
     </a>
 </div>
 <div style="display: inline-block;"><br>
